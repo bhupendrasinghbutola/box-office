@@ -1,9 +1,10 @@
 import React from 'react'
+import { DetailsWrapper } from './Details.styled'
 
 const Details = ({status,premiered,network}) => {
   return (
   
-  <div>
+  <DetailsWrapper>
 <p>
     Status:<span>{status}</span>
 </p>
@@ -13,7 +14,7 @@ const Details = ({status,premiered,network}) => {
 
 
 
-  </div>
+  </DetailsWrapper>
   )
   
 }
