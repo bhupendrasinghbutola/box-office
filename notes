@@ -1,0 +1,10 @@
+//  "arrow-body-style":[0],
+//       "prefer-arrow-callback":[0]
+// ["airbnb", "prettier","prettier/react"],
+// "react/function-component-definition": "off"
+// //  we add this in eslint rc for the warning ie Function component is not a  function component declaration
+// ? results.map((item)=>
+//     (<div key={item.show.id}>{item.show.name}</div>
+//     )
+// to install github pages write : npm install --save gh-pages
+// dist .parcel-cache
