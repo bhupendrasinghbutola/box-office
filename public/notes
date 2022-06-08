@@ -6,3 +6,5 @@
 // ? results.map((item)=>
 //     (<div key={item.show.id}>{item.show.name}</div>
 //     )
+// to install github pages write : npm install --save gh-pages
+// dist .parcel-cache
