@@ -18,3 +18,14 @@
     //   "type": "image/png",
     //   "sizes": "512x512"
     // }
+
+// as React 18 was updated from ReactDomrender to createRoot:so we use the in index.js// 
+
+// import reportWebVitals from './reportWebVitals';
+// ReactDOM.render(
+// <HashRouter><App/>
+// </HashRouter>
+// ,document.getElementById('root'));
+
+
+
